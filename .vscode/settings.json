@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "d:\\python-projects\\boilerplate\\venv\\Scripts\\python.exe",
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintEnabled": true
+}
