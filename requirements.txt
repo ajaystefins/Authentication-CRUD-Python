@@ -1,5 +1,5 @@
 PyJWT==1.5.3
 mysql-connector-python==8.0.19
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 Flask==0.12.2
 flask-restx==0.2.0
